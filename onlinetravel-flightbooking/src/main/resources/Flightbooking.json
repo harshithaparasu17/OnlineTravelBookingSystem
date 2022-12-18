@@ -1,0 +1,11 @@
+{
+    "flightId":107,
+    "costPerSeat":1800,
+    "takeOffPlace":"mumbai",
+    "destinationPlace":"kerala",
+    "flightName": "air India",
+    "dateOfBooking": "16/11/2022",
+    "dateOfJourney":"13/12/2022",
+    "seatId":93,
+    "userId":105
+}

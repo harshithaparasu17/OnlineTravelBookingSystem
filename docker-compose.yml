@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+    
+    
+   
+    travel-hotel:        
+        build: onlinetravel-hotel
+        ports:
+        - 8080:8080
+     
+  
+    travel-flight:        
+        build: onlinetravel-flight
+        ports:
+        - 8010:8010
+
+    travel-flightbooking:        
+        build: onlinetravel-flightbooking
+        ports:
+        - 8023:8023
+
+    travel-hotelbooking:        
+        build: onlinetravel-hotelbooking
+        ports:
+        - 8011:8011
+
+    travel-reviews:        
+        build: onlinetravel-reviews
+        ports:
+        - 8090:8090
+
+    travel-user:        
+        build: onlinetravel-user
+        ports:
+        - 8022:8022
+
+    travel-profile:        
+        build: onlinetravel-profile
+        ports:
+        - 8012:8012
+
+    
+       
+        
+
+       
+ 

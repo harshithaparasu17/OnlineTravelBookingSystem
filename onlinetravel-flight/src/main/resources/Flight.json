@@ -1,0 +1,7 @@
+{
+    "flightName" : "Indigo" ,
+    "fromCity" : "Goa",
+    "toCity" : "Banglore",
+    "noOfSeats" : 25,
+    "costPerSeat" : 1000
+}
